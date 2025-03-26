@@ -6,5 +6,6 @@ Degree in Science Major: Physics (Nano Technology)
 
 ### Work Experience
 Sports Statistician Genius Sports
+
 Data Analyst @ Kamara UAE 
 ### Projects
